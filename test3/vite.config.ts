@@ -18,8 +18,6 @@ export default defineConfig(({ mode }) => {
         '@': path.resolve(__dirname, '.'),
       },
     },
-    base: './', // ← この行が正しい位置にあります
+    base: './',
   };
 });
-
-  
