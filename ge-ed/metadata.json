@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 汎用画像処理 Ver7",
+  "description": "Google Gemini APIを利用して、高度な画像生成や編集を直感的な操作で行えるWebアプリケーションです。テキストからの画像生成、既存画像の編集、ポーズ変更、画像合成、インペイントなど、多彩な機能を提供します。",
+  "requestFramePermissions": []
+}
