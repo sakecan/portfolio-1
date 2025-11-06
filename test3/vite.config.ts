@@ -20,4 +20,5 @@ export default defineConfig(({ mode }) => {
         }
       }
     };
+      base: './',  // ← この行を追加！
 });
